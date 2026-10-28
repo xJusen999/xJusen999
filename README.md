@@ -24,14 +24,12 @@
 
 ## 👋 About me
 
-I'm a fullstack developer who cares as much about how an interface *feels* as how it's
-architected. I build web experiences where rendering, sound and motion carry as much
-weight as the backend behind them, and I enjoy taking high-end techniques and turning
-them into polished, production-ready demos.
+Final-year Systems & Computing Engineering student at **Universidad de los Andes**, bilingual (English C1).
 
-Right now I'm sharpening full-stack craft across **TypeScript**, **React / Next.js**,
-**Node / NestJS** and **real-time 3D on the web**, and shipping each experiment as a
-real project — with more on the way.
+I build **AI agents** that use tools, keep context and make reliable decisions — pairing
+LLM reasoning with code-level rules — and **full-stack web & mobile** products, from the
+backend to the interface the user sees. Currently looking for an internship in software,
+data or AI.
 
 ---
 
