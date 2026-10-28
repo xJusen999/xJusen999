@@ -24,7 +24,7 @@
 
 ## 👋 About me
 
-I build **AI agents** that hold up in the real world — they use tools, remember context
+I build **AI agents** that hold up in the real world. They use tools, remember context
 and make reliable decisions by pairing LLM reasoning with code-level rules that leave
 nothing to chance.
 
