@@ -70,12 +70,7 @@ key-sound typing, a WPM test and a store, all on a full-stack monorepo.
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xJusen999&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=xJusen999&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xJusen999&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=xJusen999&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170" />
 </p>
 
 <p align="center">
