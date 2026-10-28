@@ -24,12 +24,13 @@
 
 ## 👋 About me
 
-Final-year Systems & Computing Engineering student at **Universidad de los Andes**, bilingual (English C1).
+I build **AI agents** that hold up in the real world — they use tools, remember context
+and make reliable decisions by pairing LLM reasoning with code-level rules that leave
+nothing to chance.
 
-I build **AI agents** that use tools, keep context and make reliable decisions — pairing
-LLM reasoning with code-level rules — and **full-stack web & mobile** products, from the
-backend to the interface the user sees. Currently looking for an internship in software,
-data or AI.
+I'm just as at home across the **full stack**: web and mobile products built end to end,
+from the backend to an interface worth looking at. What I enjoy most is turning hard,
+high-end ideas into things that actually ship.
 
 ---
 
