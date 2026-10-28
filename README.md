@@ -1,58 +1,83 @@
-<h1 align="center">Santiago Orduz</h1>
+<!-- Profile README — xJusen999. Grows over time: add to Projects and Tech stack as new work ships. -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22d3ee&height=200&section=header&text=Santiago%20Orduz&fontColor=ffffff&fontSize=56&desc=Fullstack%20Developer&descSize=20&descAlignY=62&animation=fadeIn" alt="Santiago Orduz — Fullstack Developer" />
+</p>
 
 <p align="center">
   <a href="https://xjusen999.github.io/phosphor/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&lines=Desarrollo+de+software;Creative+coding+%26+WebGL;Ingenier%C3%ADa+inversa+web" alt="Desarrollo de software · Creative coding · WebGL" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&lines=Fullstack+developer;Creative+coding+%26+real-time+3D+on+the+web;I+turn+high-end+techniques+into+polished+demos" alt="typing tagline" />
   </a>
 </p>
 
 <p align="center">
-  Construyo interfaces y experiencias web donde el render, el sonido y la animación
-  importan tanto como la arquitectura. Me gusta desarmar las webs que admiro para
-  entender su stack y convertir esas técnicas en demos propias.
+  <a href="https://www.linkedin.com/in/santiagoorduz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/xJusen999">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=xJusen999&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
-### Proyecto destacado — Phosphor
+## 👋 About me
 
-Demo de una startup ficticia de teclados mecánicos: hero 3D interactivo, tipeo con
-sonido real, test de WPM y tienda, todo sobre un monorepo full-stack.
+I'm a fullstack developer who cares as much about how an interface *feels* as how it's
+architected. I build web experiences where rendering, sound and motion carry as much
+weight as the backend behind them, and I enjoy taking high-end techniques and turning
+them into polished, production-ready demos.
 
-- **En vivo:** https://xjusen999.github.io/phosphor/
-- **Código:** https://github.com/xJusen999/phosphor
-- **Stack:** Next.js 15 (export estático) · React 19 · React Three Fiber + three.js · NestJS 11 · GSAP · Lenis · TypeScript
-
-El cliente habla con tres backends intercambiables (`api`, `artifact`, `offline`),
-así que la misma UI corre como app con servidor o como export estático sin servidor.
-
----
-
-### Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+Right now I'm sharpening full-stack craft across **TypeScript**, **React / Next.js**,
+**Node / NestJS** and **real-time 3D on the web**, and shipping each experiment as a
+real project — with more on the way.
 
 ---
 
-### Me interesa
+## 🚀 Projects
 
-- **Creative coding / WebGL** — shaders, render procedural, animación con GSAP y scroll.
-- **Ingeniería inversa web** — reconstruir el stack y las técnicas de sitios de alto nivel.
-- **Ingeniería de software** — arquitectura limpia, monorepos y datos con fuente citada.
+### Phosphor — keyboard startup demo
+
+A fictional mechanical-keyboard startup brought to life: interactive 3D hero, real
+key-sound typing, a WPM test and a store, all on a full-stack monorepo.
+
+- 🔗 **Live:** https://xjusen999.github.io/phosphor/
+- 💻 **Code:** https://github.com/xJusen999/phosphor
+- 🧱 **Stack:** Next.js 15 (static export) · React 19 · React Three Fiber + three.js · NestJS 11 · GSAP · Lenis · TypeScript
+
+> The client talks to three swappable backends (`api`, `artifact`, `offline`), so the
+> same UI runs as a server-backed app or as a server-less static export.
+
+<sub>More projects coming — this section grows as new work ships.</sub>
 
 ---
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,threejs,python,java,git,github,vercel&perline=12" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/R3F-black?style=flat-square&logo=react&logoColor=61DAFB" alt="React Three Fiber" />
+</p>
+
+---
+
+## 📊 GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xJusen999&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=xJusen999&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
 </p>
 
-<!-- profile -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xJusen999&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:0f172a&height=120&section=footer" alt="" />
+</p>
