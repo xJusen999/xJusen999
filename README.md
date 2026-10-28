@@ -1,7 +1,7 @@
 <!-- Profile README — xJusen999. Grows over time: add to Projects and Tech stack as new work ships. -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22d3ee&height=200&section=header&text=Santiago%20Orduz&fontColor=ffffff&fontSize=56&desc=Fullstack%20Developer&descSize=20&descAlignY=62&animation=fadeIn" alt="Santiago Orduz — Fullstack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22d3ee&height=260&section=header&text=Santiago%20Orduz&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Fullstack%20Developer&descSize=18&descAlignY=56&animation=fadeIn" alt="Santiago Orduz — Fullstack Developer" />
 </p>
 
 <p align="center">
