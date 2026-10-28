@@ -54,3 +54,5 @@ así que la misma UI corre como app con servidor o como export estático sin ser
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xJusen999&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
 </p>
+
+<!-- profile -->
