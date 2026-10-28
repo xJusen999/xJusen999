@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://xjusen999.github.io/phosphor/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&lines=Fullstack+developer;Creative+coding+%26+real-time+3D+on+the+web;I+turn+high-end+techniques+into+polished+demos" alt="typing tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&lines=Fullstack+developer;Creative+coding+%26+real-time+3D+on+the+web;Real-time+systems+%26+AI+agents" alt="typing tagline" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 👋 About me
+## About me
 
 I build **AI agents** that hold up in the real world. They use tools, remember context
 and make reliable decisions by pairing LLM reasoning with code-level rules that leave
@@ -34,16 +34,16 @@ high-end ideas into things that actually ship.
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### Phosphor — keyboard startup demo
+### Phosphor — mechanical keyboard storefront
 
 A fictional mechanical-keyboard startup brought to life: interactive 3D hero, real
 key-sound typing, a WPM test and a store, all on a full-stack monorepo.
 
-- 🔗 **Live:** https://xjusen999.github.io/phosphor/
-- 💻 **Code:** https://github.com/xJusen999/phosphor
-- 🧱 **Stack:** Next.js 15 (static export) · React 19 · React Three Fiber + three.js · NestJS 11 · GSAP · Lenis · TypeScript
+- **Live:** https://xjusen999.github.io/phosphor/
+- **Code:** https://github.com/xJusen999/phosphor
+- **Stack:** Next.js 15 (static export) · React 19 · React Three Fiber + three.js · NestJS 11 · GSAP · Lenis · TypeScript
 
 > The client talks to three swappable backends (`api`, `artifact`, `offline`), so the
 > same UI runs as a server-backed app or as a server-less static export.
@@ -52,7 +52,7 @@ key-sound typing, a WPM test and a store, all on a full-stack monorepo.
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,threejs,python,java,git,github,vercel&perline=12" alt="Tech stack" />
@@ -66,7 +66,7 @@ key-sound typing, a WPM test and a store, all on a full-stack monorepo.
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=xJusen999&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170" />
